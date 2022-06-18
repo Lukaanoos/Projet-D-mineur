@@ -1,19 +1,19 @@
-#ifndef bibliotheques
-  #define bibliotheques
+#ifndef library
+  #define library
   #include <stdio.h>
   #include <stdlib.h>
   #include <time.h>
   #include<string.h>
 #endif
 
-#ifndef fonctionGF
-  #define fonctionGF
-  #include "fonctionGrilleFacile.h"
+#ifndef fonctionEB
+  #define fonctionEB
+  #include "fonctionEasyBoard.h"
 #endif
 
-#ifndef fonctionGI
-  #define fonctionGI
-  #include "fonctionGrilleIntermediaire.h"
+#ifndef fonctionIB
+  #define fonctionIB
+  #include "fonctionIntermediateBoard.h"
 #endif
 
 #ifndef fonctionS
