@@ -3,14 +3,14 @@
   #include "fonctionStructure.h"
 #endif
 
-#ifndef ecranMenu
-  #define ecranMenu
-  #include "ecranMenu.h"
+#ifndef screenMenu
+  #define screenMenu
+  #include "screenMenu.h"
 #endif 
 
-#ifndef fonctionGF
-  #define fonctionGF
-  #include "fonctionGrilleFacile.h"
+#ifndef fonctionEB
+  #define fonctionEB
+  #include "fonctioneasyBoard.h"
 #endif
 
 void easyBoardInitialisation(t_cases tab[10][10]);
