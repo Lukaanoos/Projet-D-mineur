@@ -8,10 +8,6 @@
   #include "screenMenu.h"
 #endif 
 
-#ifndef fonctionEB
-  #define fonctionEB
-  #include "fonctioneasyBoard.h"
-#endif
 
 void easyBoardInitialisation(t_cases tab[10][10]);
 void easyBoardFullfill(t_cases tab[10][10]);
