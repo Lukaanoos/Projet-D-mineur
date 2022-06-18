@@ -16,9 +16,9 @@
   #include "fonctionGrilleIntermediaire.h"
 #endif
 
-#ifndef fonctionFG
-  #define fonctionFG
-  #include "fonctionGenerale.h"
+#ifndef fonctionS
+  #define fonctionS
+  #include "fonctionStructure.h"
 #endif
 
 
