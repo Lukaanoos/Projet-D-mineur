@@ -16,7 +16,10 @@
   #include "fonctionGrilleIntermediaire.h"
 #endif
 
-
+#ifndef fonctionFG
+  #define fonctionFG
+  #include "fonctionGenerale.h"
+#endif
 
 
 
